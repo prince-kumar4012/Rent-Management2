@@ -1,0 +1,40 @@
+export const SITE_CONFIG = {
+  name: 'Chander Vihar Property Exchange',
+  shortName: 'CVP Exchange',
+  tagline: 'Chander Vihar Community, Growth & Trust',
+  taglineHi: 'चंदर विहार का विकास, एकता और भरोसा',
+  description: "Chander Vihar & Nilothi — Your trusted local property and community network guided by Sukhwinder Singh Gullu.",
+  phone: '+91 9899063456',
+  rawPhone: '9899063456',
+  whatsapp: '+91 9999706703',
+  rawWhatsapp: '919999706703',
+  email: 'contact@cvpexchange.com',
+  secondaryEmail: 'a2zoverseas07@gmail.com',
+  address: 'Nilothi Extn, Mundka, Ward No. 38/36, Delhi - 110041',
+  addressShort: 'Chander Vihar, Nilothi, West Delhi',
+  primaryLocality: 'Chander Vihar',
+  secondaryLocality: 'Nilothi',
+  city: 'Delhi',
+  ward: 'Ward No. 38/36, Nilothi Extn, Mundka',
+  founderName: 'Sukhwinder Singh Gullu',
+  founderTitle: 'Samaj Sevak & Local Leader',
+  founderAlias: 'Sukhwinder Singh Gullu',
+  focusAreas: ['Uday Vihar', 'Ranjeet Vihar', 'Chander Vihar', 'Nilothi', 'Teacher Vihar', 'Mundka'],
+  socials: {
+    instagram: {
+      handle: '@cvpexchange',
+      url: 'https://instagram.com/cvpexchange',
+    },
+    facebook: {
+      handle: 'Chander Vihar Ki Khoobsurti',
+      url: 'https://www.facebook.com/share/1CjeqYtR17/',
+    },
+    youtube: {
+      handle: '@cvpexchange',
+      url: 'https://youtube.com/@cvpexchange',
+    },
+  },
+  services: ['Buy', 'Sell', 'Rent', 'Godown/Shed', 'PM-UDAY Help', 'Community Support'],
+};
+
+export default SITE_CONFIG;
